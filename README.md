@@ -21,12 +21,16 @@ currency-converter/
 ├── code.js
 └── first.js
 
- How to Run
+Output
+[App Screenshot](CC.PNG)
+
+How to Run
+
 1. Download or clone the repository
 2. Open `index.html` in your browser
-   
- Author
+  
+Author
+
 Bilal
 
-## 👨‍💻 Author
-Bilal
+
