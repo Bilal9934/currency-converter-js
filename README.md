@@ -22,7 +22,7 @@ currency-converter/
 └── first.js
 
 Output
-[App Screenshot](CC.PNG)
+[App Screenshot](CCSS.PNG)
 
 How to Run
 
