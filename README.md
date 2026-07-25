@@ -99,7 +99,7 @@ This project uses a **Currency Exchange Rate API** to retrieve the latest exchan
 
 **Muhammad Bilal**
 
-- **GitHub:** [https://github.com/Bilal9934](https://github.com/CodeWith-MB)
+- **GitHub:** https://github.com/CodeWith-Bilall
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-bilal9
 
 ---
